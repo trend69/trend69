@@ -14,5 +14,5 @@ Im probably around here on then in github, haven't done anything too serious sin
 ![Domain Stuff](https://img.shields.io/badge/Domain%20Stuff-Skilled-orange)
 
 ### Contact me from here
-[![Discord](https://img.shields.io/badge/Discord-@.trend_-blue?logo=discord)](https://discord.com/users/1080618107338502246)
+[![Discord](https://img.shields.io/badge/Discord-@trend-blue?logo=discord)](https://discord.com/users/1080618107338502246)
 [![Telegram](https://img.shields.io/badge/Telegram-@vmphp-blue?logo=telegram)](https://t.me/@vmphp)
