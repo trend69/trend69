@@ -1,6 +1,6 @@
 # Welcome 👀
 trend • 18 years old • developer & verified on roblox
-![Roblox](https://roblox.com/users/669448003/profile)
+[Roblox](https://roblox.com/users/669448003/profile)
 
 around here on then in github, haven't done anything too serious since 2022-2023. passionate on **web development** backend, networking.
 creator of https://bgsko.com -- value list for OG Bubble Gum Simulator :D
