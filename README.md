@@ -16,4 +16,4 @@ creator of https://bgsko.com -- value list for OG Bubble Gum Simulator :D
 
 ### Contact me from here
 [![Discord](https://img.shields.io/badge/Discord-@trend-blue?logo=discord)](https://discord.com/users/1080618107338502246)
-[![Telegram](https://img.shields.io/badge/Telegram-@vmphp-blue?logo=telegram)](https://t.me/@vmphp)
+[![Telegram](https://img.shields.io/badge/Telegram-@vmphp-blue?logo=telegram)](https://t.me/vmphp)
